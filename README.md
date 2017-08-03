@@ -1,3 +1,5 @@
+    ##font-awsome-cheat-codes
+
     <i class="fa fa-minus-square-o" aria-hidden="true"></i>  "\f147" 
     <i class="fa fa-level-up" aria-hidden="true"></i>  "\f148" 
     <i class="fa fa-level-down" aria-hidden="true"></i>  "\f149"

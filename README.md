@@ -1,8 +1,7 @@
-<i class="fa fa-minus-square-o" aria-hidden="true"></i>  "\f147" 
-<i class="fa fa-level-up" aria-hidden="true"></i>  "\f148" 
-<i class="fa fa-level-down" aria-hidden="true"></i>  "\f149"
-
-	<i class="fa-check-square" aria-hidden="true"></i>  "\f14a"
+    <i class="fa fa-minus-square-o" aria-hidden="true"></i>  "\f147" 
+    <i class="fa fa-level-up" aria-hidden="true"></i>  "\f148" 
+    <i class="fa fa-level-down" aria-hidden="true"></i>  "\f149"
+    <i class="fa-check-square" aria-hidden="true"></i>  "\f14a"
     <i class="fa-pencil-square" aria-hidden="true"></i>  "\f14b"
     <i class="fa-external-link-square" aria-hidden="true"></i>  "\f14c"
     <i class="fa-share-square" aria-hidden="true"></i>  "\f14d"
